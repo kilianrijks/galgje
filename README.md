@@ -2,7 +2,7 @@
 
 ## te raden woord
 
-|M|.|n|.|
+|M|o|n|k|
 |-|-|-|-|
 |1|2|3|4|
 
@@ -15,5 +15,7 @@
 2: E-
 3: M+
 4: N+
-5: is het woord monk?
+5: is het woord monk?+
+
+## YOU WIN!!!!!!!!!!!!
 
