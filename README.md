@@ -1,12 +1,12 @@
-# Galgje
+# galgje
 
-## Te raden woord
+## te raden woord
 
 |.|.|.|.|
 |-|-|-|-|
 |1|2|3|4|
 
-## Score
+## score
 ![gallow](./images/1.png)
 
-## Beurten
+## beurten
